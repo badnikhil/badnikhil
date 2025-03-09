@@ -7,7 +7,6 @@
 🎓 &nbsp;I'm currently studying Data Science at IIT Madras.\
 📚 &nbsp;I have studied **Computer Architecture & Organization** and various programming languages.\
 🌱 &nbsp;I'm working on improving my skills in **Flutter, Data Structures & Algorithms, and Backend Development**.\
-
 ✍️ &nbsp;I enjoy **competitive programming and open-source contributions**.\
 💬 &nbsp;Feel free to reach out to me for collaboration, discussions, or any interesting projects.\
 📝 &nbsp;I have a great interest in low-level programming. I love to understand how my favorite things work at the binary level!
