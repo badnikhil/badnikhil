@@ -12,9 +12,9 @@
 💬 &nbsp;Feel free to reach out to me for collaboration, discussions, or any interesting projects.\
 📝 &nbsp;I have a great interest in low-level programming. I love to understand how my favorite things work at the binary level!
 
-### 🛠️ &nbsp;Tech Stack
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠️ &nbsp;Tech Stack
 
 
 #### **Languages**
