@@ -7,15 +7,17 @@
 🎓 &nbsp;I'm currently studying Data Science at IIT Madras.\
 📚 &nbsp;I have studied **Computer Architecture & Organization** and various programming languages.\
 🌱 &nbsp;I'm working on improving my skills in **Flutter, Data Structures & Algorithms, and Backend Development**.\
+
 ✍️ &nbsp;I enjoy **competitive programming and open-source contributions**.\
 💬 &nbsp;Feel free to reach out to me for collaboration, discussions, or any interesting projects.\
 📝 &nbsp;I have a great interest in low-level programming. I love to understand how my favorite things work at the binary level!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠️ &nbsp;Tech Stack
 
 #### **Languages**
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)&nbsp;
