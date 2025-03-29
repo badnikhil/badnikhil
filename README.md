@@ -39,8 +39,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ## 🏆 Competitive Programming  
 
-- **LeetCode:** Solved **400+ problems** Rated 1850+ and continuously improving with a **knight Badge**!  
-- **CodeChef:** **4★ (Four Star)** Competitive Programmer  
+- **LeetCode:** Solved **450+ problems** Rated 1600+ !  
+- **CodeChef:** **5★ (Five Star)** Competitive Programmer  
 
 
 ### ⚙️ &nbsp;GitHub Analytics
