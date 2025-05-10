@@ -43,14 +43,16 @@
 - **CodeChef:** **5★ (Five Star)** Competitive Programmer  
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics (2025)
 
 <p align="center">
-<a href="https://github.com/badnikhil">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=badnikhil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=badnikhil&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/badnikhil">
+    <!-- Show 2025 stats with a custom query -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=badnikhil&show_icons=true&theme=algolia&count_private=true&custom_title=2025+GitHub+Analytics"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badnikhil&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center"> <a href="mailto:nikhilljatt@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/> </a> <a href="https://github.com/badnikhil" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/> </a> <a href="https://www.instagram.com/bad.nikhill" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/> </a> </p>
