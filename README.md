@@ -4,7 +4,6 @@
 ### 👨‍💻 &nbsp;About Me
 
 💡 &nbsp;I love exploring new technologies and building innovative software solutions.\
-🎓 &nbsp;I'm currently studying CSE(AIML) at KIET group of institutions.\
 📚 &nbsp;I have studied **Computer Architecture & Organization** and various programming languages.\
 🌱 &nbsp;I'm working on improving my skills in **Flutter, Data Structures & Algorithms, and Backend**.\
 ✍️ &nbsp;I enjoy **competitive programming and open-source contributions**.\
