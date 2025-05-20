@@ -6,7 +6,7 @@
 💡 &nbsp;I love exploring new technologies and building innovative software solutions.\
 📚 &nbsp;I have studied **Computer Architecture & Organization** and various programming languages.\
 🌱 &nbsp;I'm working on improving my skills in **Flutter, Data Structures & Algorithms, and Backend**.\
-✍️ &nbsp;I enjoy **competitive programming and open-source contributions**.\
+✍️ &nbsp;I enjoy **competitive programming (5 ⭐ @ codechef and open-source contributions**.\
 💬 &nbsp;Feel free to reach out to me for collaboration, discussions, or any interesting projects.\
 📝 &nbsp;I have a great interest in low-level programming. I love to understand how my favorite things work at the binary level!
 
