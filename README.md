@@ -44,7 +44,7 @@
 
 ### ⚙️ GitHub Analytics (2025)
 
-<p align="center">
+<p align ="center">
   <a href="https://github.com/badnikhil">
     <!-- Show 2025 stats with a custom query -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=badnikhil&show_icons=true&theme=algolia&count_private=true&custom_title=2025+GitHub+Analytics"/>
