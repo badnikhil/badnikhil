@@ -5,7 +5,7 @@
 
 💡 &nbsp;I love exploring new technologies and building innovative software solutions.\
 📚 &nbsp;I have studied **Computer Architecture & Organization** and various programming languages.\
-🌱 &nbsp;** I hate Scripting languages **.\
+🌱 &nbsp;**I hate inefficient languages including js and python **.\
 ✍️ &nbsp;I enjoy **competitive programming (5 ⭐ @ codechef) and open-source contributions**.\
 💬 &nbsp;Feel free to reach out to me for collaboration, discussions, or any interesting projects.\
 📝 &nbsp;I have a great interest in low-level programming. I love to understand how my favorite things work at the binary level!
