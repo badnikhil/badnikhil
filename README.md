@@ -29,14 +29,14 @@
 
 ### 🛠 Tools That Matter
 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![CUDA](https://img.shields.io/badge/-CUDA-05122A?style=flat&logo=nvidia&logoColor=76B900)
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
+![CUDA](https://img.shields.io/badge/CUDA-05122A?style=flat&logo=nvidia&logoColor=76B900)
+![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=0175C2)
+![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)
+![VS Code](https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
@@ -47,16 +47,25 @@
 
 ---
 
+### 📊 GitHub Analytics (2025)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=badnikhil&show_icons=true&theme=algolia&count_private=true&custom_title=2025+GitHub+Analytics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badnikhil&layout=compact&langs_count=8&theme=algolia" />
+</p>
+
+---
+
 ### 📫 Contact
 
 <p align="left">
   <a href="mailto:nikhilljatt@gmail.com">
-    <img src="https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
   <a href="https://github.com/badnikhil">
-    <img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" height="40"/>
   </a>
   <a href="https://www.instagram.com/bad.nikhill">
-    <img src="https://img.shields.io/badge/instagram-gray?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
   </a>
 </p>
