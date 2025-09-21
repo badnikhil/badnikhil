@@ -50,7 +50,7 @@
 ### 📊 GitHub Analytics (2025)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badnikhil&show_icons=true&theme=algolia&count_private=true&custom_title=2025+GitHub+Analytics&cache_seconds=1&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=badnikhil&show_icons=true&theme=algolia&count_private=true&custom_title=2025+GitHub+Analytics" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badnikhil&layout=compact&langs_count=8&theme=algolia" />
 </p>
 
