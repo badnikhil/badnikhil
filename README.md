@@ -49,11 +49,12 @@
 
 ### 📊 GitHub Analytics (2025)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badnikhil&theme=algolia&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badnikhil&layout=compact&langs_count=8&theme=algolia" />
+ <p align="center">
+  <!-- GitHub Stats Card with custom title -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=badnikhil&theme=algolia&show_icons=true&custom_title=Nikhil's+GitHub+Stats" />
+ <!-- Contribution Streak Card -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=badnikhil&theme=algolia&custom_title=Contribution+Streak" />
 </p>
-
 ---
 
 ### 📫 Contact
