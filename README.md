@@ -52,7 +52,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=badnikhil&theme=algolia&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badnikhil&layout=compact&langs_count=8&theme=algolia" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=badnikhil&theme=algolia" />
+  <img src="https://streak-stats.demolab.com/?user=badnikhil&theme=algolia" />
 </p>
 
 ---
