@@ -40,12 +40,6 @@
 
 ---
 
-### 🏁 Competitive Programming
-
-- **CodeChef** — 5★ rated [@badnikhil](https://www.codechef.com/users/badnikhil)  
-- **LeetCode** — 450+ problems solved [@badnikhil](https://leetcode.com/u/badnikhil)
-
----
 
 ### 📊 GitHub Analytics (2025)
 
