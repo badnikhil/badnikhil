@@ -12,9 +12,9 @@
 
 ### 🧠 Focus Areas
 
-- **C / C++** — If it leaks memory, I’ll find it before Valgrind.
+- **C / C++** — I don't need valgrind.
 - **CUDA** — Writing GPU kernels. If it's slow, it's not mine.
-- **Flutter / Dart** — Production-grade UIs, not playgrounds.
+- **Flutter / Dart** — Production-grade Code, not playgrounds.
 - **Assembly** — Close enough to touch the metal.
 
 ---
