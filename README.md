@@ -3,62 +3,57 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBuMTFscTFlZ24xdDQxZ2Z4ZWpkMmwzeXQ0OGgzMndhaGNicTRyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q61LJj43H48z1FIK4X/giphy.gif" width="100%" />
 </p>
 
-<h2 align="center">Nikhil — Low-level Dev · C++ · CUDA · Flutter</h2>
+<h2 align="center">Nikhil — Systems Programmer</h2>
 
-> I don’t chase trends.  
-> I write code that compiles fast, runs faster, and doesn’t need a second explanation.
+> *"I count bits to save a clock. And I don't use valgrind; I know where I left my pointers."*
 
----
+They say software is eating the world, but most of it is choking on bloated frameworks and electron apps. I prefer staying close to the metal. I write code that respects the CPU, compiles fast, and runs faster. If it needs a garbage collector to clean up its mess, it's not mine. 
 
-### 🧠 Focus Areas
-
-- **C / C++** — I don't need valgrind.
-- **CUDA** — Writing GPU kernels. If it's slow, it's not mine.
-- **Flutter / Dart** — Production-grade Code, not playgrounds.
-- **Assembly** — Close enough to touch the metal.
+I'm a systems programmer, open-source maintainer, and occasional UI guy when the paycheck demands it (CTO at Doordripp, previously shipping production apps at Johar Basket).
 
 ---
 
-### 🧩 What I Actually Do
+### 🔧 The Workbench
+Here is what's compiling on my machine:
 
-- Optimize at the system level  
-- Think in bits, debug in hex  
-- Code competitively to stay sharp
-
----
-
-### 🛠 Tools That Matter
-
-![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
-![CUDA](https://img.shields.io/badge/CUDA-05122A?style=flat&logo=nvidia&logoColor=76B900)
-![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)
-![VS Code](https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+* **[bindbc-cuda](https://github.com/badnikhil/bindbc-cuda)** — **Official Author & Maintainer.** When I saw the D ecosystem relying on a dead CUDA library, I wrote a modern replacement from scratch for `dcompute`.
+* **[MyOS](https://github.com/badnikhil/MyOS)** — Wrote a 64-bit operating system from the UEFI bootloader up. Custom memory allocator, ACPI, xHCI (USB 3.0). Listed in Awesome OS because apparently, kids these days find writing kernels "awesome".
+* **[CAMM (CUDA Matrix Multiplication)](https://github.com/badnikhil/CAMM)** — Pushed register-level tiling and memory coalescing to hit 93% of NVIDIA's cuBLAS throughput. 
+* **[API Dash (GSoC 2026)](https://github.com/foss42/apidash)** — Gutting the core into pure Dart and building a multi-protocol (gRPC, MQTT, WebSocket) developer CLI. With [Lots of PRs](https://github.com/foss42/apidash/pulls?q=is%3Apr+author%3Abadnikhil+) spanning core architecture refactors and model migrations. 
+* **[mysyscaller](https://github.com/badnikhil/mysyscaller)** — A raw C and Assembly utility to batch-execute syscalls directly against the Linux kernel. No libc wrappers, just pure metal(Abandoned though).
 
 ---
 
+### ⚙️ The Toolbelt
+I don't chase trends. I use what works.
 
-### 📊 GitHub Analytics (2025)
+* **The Old Guard:** `C`, `C++`, `x86-64 Assembly`. (Where the real work happens).
+* **The Compute:** `CUDA`. (If you aren't thinking in warps and shared memory tiles, you're just heating up the room).
+* **The Challengers:** `D Language`. (`C++` needed to learn some manners).
+* **The Day Job:** `Flutter / Dart`. (Because shipping Extremely Optimized e-commerce apps at Johar Basket and building production infra as CTO at Doordripp pays the bills).
+
+---
+
+### 📡 The Specs
+* 🔬 **Google TPU Research Cloud** — Accessing heavy iron for high-performance compute.
+* ☁️ **AWS Certified Solutions Architect** — I know how the "cloud" works (it's just someone else's Bash).
+* 🎯 **GSoC 2026 Contributor** — API Dash. Implementing low-latency multi-protocol support (gRPC, MQTT, WebSocket), and engineering a unified cross-platform CLI.
+
+---
+
+### 📊 Telemetry
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=badnikhil&theme=algolia&show_icons=true&custom_title=Nikhil's+GitHub+Stats" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=badnikhil&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=badnikhil&theme=algolia&custom_title=Contribution+Streak" />
 </p>
+
 ---
 
-### 📫 Contact
-
-<p align="left">
-  <a href="mailto:nikhilljatt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-  </a>
-  <a href="https://github.com/badnikhil">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/bad.nikhill">
-    <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
-  </a>
+<p align="center">
+  <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand... and great programmers write code that doesn't waste my L1 cache."</em><br>
+  <br>
+  <a href="mailto:nikhilljatt@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" height="25"/></a>
+  <a href="https://github.com/badnikhil"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" height="25"/></a>
+  <a href="https://www.instagram.com/bad.nikhill"><img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=white" height="25"/></a>
 </p>
