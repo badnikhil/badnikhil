@@ -46,7 +46,7 @@ I don't chase trends. I use what works.
 ### 📊 Telemetry
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=badnikhil&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=badnikhil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=badnikhil&theme=algolia&custom_title=Contribution+Streak" />
 </p>
 
