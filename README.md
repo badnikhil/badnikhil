@@ -1,6 +1,6 @@
 <!-- Full-width GIF header -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBuMTFscTFlZ24xdDQxZ2Z4ZWpkMmwzeXQ0OGgzMndhaGNicTRyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q61LJj43H48z1FIK4X/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/Q61LJj43H48z1FIK4X/giphy.gif" width="100%" />
 </p>
 
 <h2 align="center">Nikhil — Systems Programmer & Full-Stack Architect</h2>
@@ -20,7 +20,7 @@ Here is what's compiling on my machine:
 * **[WebAI](https://github.com/token-maxing/WebAI-vscode-extension)** — **Autonomous AI Orchestration.** A native VS Code AI agent that bypasses API rate limits by reverse-engineering frontend APIs and using headless browser session-state emulation. Features an AST-aware unified diff patching engine and a fault-tolerant, 15-iteration self-correcting runtime.
 * **[bindbc-cuda](https://github.com/badnikhil/bindbc-cuda)** — **Official Author & Maintainer.** When I saw the D ecosystem relying on a dead CUDA library, I wrote a modern replacement from scratch for `dcompute`.
 * **[MyOS](https://github.com/badnikhil/MyOS)** — Wrote a 64-bit operating system from the UEFI bootloader up. Custom memory allocator, ACPI, xHCI (USB 3.0). Listed in Awesome OS because apparently, kids these days find writing kernels "awesome".
-* **[CAMM (CUDA Matrix Multiplication)](https://github.com/badnikhil/CAMM)** — Pushed register-level tiling and memory coalescing to hit 93% of NVIDIA's cuBLAS throughput. 
+* **[CAMM (CUDA Matrix Multiplication)](https://github.com/badnikhil/CAMM)** — A from-scratch FP32 SGEMM that **outperforms NVIDIA cuBLAS for N ≤ 4096**. Hand-tuned register tiling (asymmetric 16×8), float4 vectorization, double buffering, and an auto-dispatcher that picks the best kernel per shape.
 * **[API Dash (GSoC 2026)](https://github.com/foss42/apidash)** — Gutting the core into pure Dart and building a multi-protocol (gRPC, MQTT, WebSocket) developer CLI. With [Lots of PRs](https://github.com/foss42/apidash/pulls?q=is%3Apr+author%3Abadnikhil+) spanning core architecture refactors and model migrations. 
 
 ---
