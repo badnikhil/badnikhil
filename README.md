@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/Q61LJj43H48z1FIK4X/giphy.gif" width="100%" />
 </p>
 
-<h2 align="center">Nikhil — Systems Programmer & Full-Stack Architect</h2>
+<h2 align="center">Nikhil · Systems Programmer & Full-Stack Architect</h2>
 
 > *"I count bits to save a clock. I don't use valgrind; I know where I left my pointers. But when it's time to ship, I make the Cloud bend to my will."*
 
@@ -13,33 +13,141 @@ I'm a systems programmer, open-source maintainer, and now an enterprise-grade fu
 
 ---
 
-### 🔧 The Workbench
-Here is what's compiling on my machine:
+### 🔧 Projects
 
-* **[The Todo](https://github.com/badnikhil/the-todo)** — **Distributed Task Orchestration.** A massively over-engineered, full-stack microservice platform (FastAPI, React, Postgres, Redis). Features WebSockets, Celery background workers, and a full OpenTelemetry observability pipeline (Loki, Tempo, Prometheus, Grafana). Containerized and automated via GitHub Actions on a Google Cloud ARM64 VM.
-* **[WebAI](https://github.com/token-maxing/WebAI-vscode-extension)** — **Autonomous AI Orchestration.** A native VS Code AI agent that bypasses API rate limits by reverse-engineering frontend APIs and using headless browser session-state emulation. Features an AST-aware unified diff patching engine and a fault-tolerant, 15-iteration self-correcting runtime.
-* **[bindbc-cuda](https://github.com/badnikhil/bindbc-cuda)** — **Official Author & Maintainer.** When I saw the D ecosystem relying on a dead CUDA library, I wrote a modern replacement from scratch for `dcompute`.
-* **[MyOS](https://github.com/badnikhil/MyOS)** — Wrote a 64-bit operating system from the UEFI bootloader up. Custom memory allocator, ACPI, xHCI (USB 3.0). Listed in Awesome OS because apparently, kids these days find writing kernels "awesome".
-* **[CAMM (CUDA Matrix Multiplication)](https://github.com/badnikhil/CAMM)** — A from-scratch FP32 SGEMM that **outperforms NVIDIA cuBLAS for N ≤ 4096**. Hand-tuned register tiling (asymmetric 16×8), float4 vectorization, double buffering, and an auto-dispatcher that picks the best kernel per shape.
-* **[API Dash (GSoC 2026)](https://github.com/foss42/apidash)** — Gutting the core into pure Dart and building a multi-protocol (gRPC, MQTT, WebSocket) developer CLI. With [Lots of PRs](https://github.com/foss42/apidash/pulls?q=is%3Apr+author%3Abadnikhil+) spanning core architecture refactors and model migrations. 
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**[MyOS](https://github.com/badnikhil/MyOS)**
 
-### ⚙️ The Toolbelt
-I don't chase trends. I use what works.
+I just hate using people's code
 
-* **The Old Guard:** `C`, `C++`, `x86-64 Assembly`. (Where the real work happens).
-* **The Compute:** `CUDA`. (If you aren't thinking in warps and shared memory tiles, you're just heating up the room).
-* **The Full-Stack & Cloud:** `Python (FastAPI)`, `TypeScript / React`, `Next.js`, `Docker`, `Nginx`, `Google Cloud (GCP)`. (Deploying containerized microservices and automated CI/CD pipelines at scale).
-* **The Day Job:** `Flutter / Dart`. (Because shipping Extremely Optimized e-commerce apps at Johar Basket and building production infra as CTO at Doordripp pays the bills).
+`C` &nbsp;&nbsp; ⭐ 10 &nbsp;&nbsp; 🍴 2
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📡 The Specs
-* ☁️ **Full-Stack DevOps Architect** — Mastering Docker, Nginx, CI/CD, and OpenTelemetry to build resilient, auto-scaling SaaS platforms.
-* 🔬 **Google TPU Research Cloud** — Accessing heavy iron for high-performance compute.
-* ☁️ **AWS Certified Solutions Architect** — I know how the "cloud" works (it's just someone else's Bash).
-* 🎯 **GSoC 2026 Contributor** — API Dash. Implementing low-latency multi-protocol support (gRPC, MQTT, WebSocket), and engineering a unified cross-platform CLI.
+**[silicon-to-assembly](https://github.com/badnikhil/silicon-to-assembly)**
+
+An in-depth exploration of assembly language, the execution model, and computer architecture.
+
+⭐ 11
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[CAMM](https://github.com/badnikhil/CAMM)**
+
+CUDA Accelerated Matrix Multiplication.
+
+`Cuda` &nbsp;&nbsp; ⭐ 3
+
+</td>
+<td width="50%" valign="top">
+
+**[Vulkore](https://github.com/badnikhil/Vulkore)**
+
+C++20 GPU compute runtime with CUDA-like ergonomics.
+
+`C++` &nbsp;&nbsp; ⭐ 6 &nbsp;&nbsp; 🍴 1
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[bindbc-cuda](https://github.com/badnikhil/bindbc-cuda)**
+
+Dynamic and static D language bindings for the CUDA Driver API.
+
+`D` &nbsp;&nbsp; ⭐ 4
+
+</td>
+<td width="50%" valign="top">
+
+**[gonelang](https://github.com/badnikhil/gonelang)**
+
+Trying to create a compiler, let's see where this goes.
+
+`C` &nbsp;&nbsp; ⭐ 1
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[git-storage](https://github.com/badnikhil/git-storage)**
+
+Turn any git host into encrypted, deduplicating, transactional object storage.
+
+`Rust` &nbsp;&nbsp; ⭐ 1
+
+</td>
+<td width="50%" valign="top">
+
+**[collab](https://github.com/badnikhil/collab)**
+
+Google-Docs-style sync meets a kanban board, both algorithms built in Go.
+
+`Go` &nbsp;&nbsp; ⭐ 4
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[the-todo](https://github.com/badnikhil/the-todo)**
+
+Sprinting years of senior engineering into a single todo app.
+
+`Python`
+
+</td>
+<td width="50%" valign="top">
+
+**[WebAI-vscode-extension](https://github.com/token-maxing/WebAI-vscode-extension)**
+
+VS Code extension source code of WebAI.
+
+`TypeScript` &nbsp;&nbsp; 🍴 2
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[cctalk](https://github.com/badnikhil/cctalk)**
+
+Talk to your codebase from WhatsApp, routed to the Claude Code CLI.
+
+`TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+**[file_organizer](https://github.com/badnikhil/file_organizer)**
+
+A simple tool to organize your messy folders.
+
+`C` &nbsp;&nbsp; ⭐ 5 &nbsp;&nbsp; 🍴 1
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[foss42/apidash](https://github.com/foss42/apidash)**
+
+GSoC 2026: multi-protocol (gRPC, MQTT, WebSocket) support and a unified cross-platform CLI · [my PRs](https://github.com/foss42/apidash/pulls?q=is%3Apr+author%3Abadnikhil+).
+
+`Dart` &nbsp;&nbsp; ⭐ 2858 &nbsp;&nbsp; 🍴 972
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -58,4 +166,7 @@ I don't chase trends. I use what works.
   <a href="mailto:nikhilljatt@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" height="25"/></a>
   <a href="https://github.com/badnikhil"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" height="25"/></a>
   <a href="https://www.instagram.com/bad.nikhill"><img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=white" height="25"/></a>
+  <br>
+  <br>
+  <sub>Powered by <a href="https://claude.com/claude-code">Claude Code</a> · Sponsored by <a href="https://www.anthropic.com">Anthropic</a></sub>
 </p>
